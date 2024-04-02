@@ -1,4 +1,8 @@
 fadl almatari 
+<<<<<<< HEAD
 
 
 how are you master
+=======
+dDFASFSSD
+>>>>>>> e732fc3a16c09c1357d472c17366bc2b8528cfe1
